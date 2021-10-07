@@ -12,4 +12,5 @@ div.addEventListener("mousedown", e => {
 div.addEventListener("mouseup", e => {
     console.log("you let go of the mouse");
     div.style.backgroundColor = "black";
+    
 })
